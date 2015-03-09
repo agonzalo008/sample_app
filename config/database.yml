@@ -23,7 +23,7 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: test
+  database: sample
   pool: 5
   username: alex
   password: alex18
